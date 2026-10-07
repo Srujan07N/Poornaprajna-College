@@ -1,0 +1,6 @@
+{
+  "name": "Poornaprajna College (Autonomous), Udupi",
+  "description": "Official institutional portal for Poornaprajna College (Autonomous), Udupi. Established in 1960 under Sri Admar Mutt Education Council, offering undergraduate and postgraduate education.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

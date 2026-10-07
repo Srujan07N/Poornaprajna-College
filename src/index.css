@@ -1,0 +1,41 @@
+@import "tailwindcss";
+
+@theme {
+  --font-serif: 'Cormorant Garamond', Georgia, serif;
+  --font-sans: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+  --color-maroon-950: #380812;
+  --color-maroon-900: #4d0e1b;
+  --color-maroon-800: #6b1426;
+  --color-maroon-700: #7e192e;
+  --color-maroon-600: #9a233b;
+  --color-gold-600: #a97e1b;
+  --color-gold-500: #c59b27;
+  --color-gold-400: #deb038;
+  --color-parchment: #fcfbf7;
+  --color-parchment-subtle: #f5f2eb;
+}
+
+html {
+  scroll-behavior: smooth;
+  font-family: var(--font-sans);
+}
+
+h1, h2, h3, .font-display {
+  font-family: var(--font-serif);
+}
+
+/* Custom scrollbar for clean institutional aesthetic */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #f5f2eb;
+}
+::-webkit-scrollbar-thumb {
+  background: #d6cebe;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #b8ad96;
+}

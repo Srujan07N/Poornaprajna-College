@@ -1,0 +1,1194 @@
+{
+  "settings": {
+    "institutionName": "Poornaprajna College (Autonomous), Udupi",
+    "tagline": "Shaping Knowledge. Building Character. Empowering Futures.",
+    "establishedYear": 1960,
+    "autonomousStatusText": "Conferred Autonomous Status by UGC & Mangalore University",
+    "affiliationText": "Affiliated to Mangalore University | Managed by Sri Admar Mutt Education Council (AMEC)",
+    "naacText": "Re-accredited by NAAC with prestigious Grade",
+    "address": {
+      "line1": "Poornaprajna Campus",
+      "line2": "Fish Market Road, Volakadu",
+      "city": "Udupi",
+      "district": "Udupi District",
+      "state": "Karnataka",
+      "pincode": "576101",
+      "country": "India"
+    },
+    "phones": [
+      "+91 820 2520415",
+      "+91 820 2520335"
+    ],
+    "emails": [
+      "office@ppc.edu.in",
+      "admissions@ppc.edu.in",
+      "principal@ppc.edu.in"
+    ],
+    "whatsappNumber": "+91 94801 23456",
+    "officeHours": "Monday to Friday: 9:00 AM – 5:00 PM | Saturday: 9:00 AM – 1:00 PM",
+    "googleMapsEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3882.3551520630096!2d74.7461972748479!3d13.341103687009472!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bbcbb769baae683%3A0xb3e1e838b0068ff4!2sPoornaprajna%20College!5e0!3m2!1sen!2sin!4v1700000000000!5m2!1sen!2sin",
+    "admissionStatus": "Admissions Open 2026–27",
+    "academicYear": "2026–27",
+    "announcementText": "Admissions Open for Undergraduate (B.Com, B.Sc, B.A, B.B.A, B.C.A) & Postgraduate Programmes for Academic Year 2026–27.",
+    "announcementActive": true,
+    "announcementLink": "#admissions",
+    "principalMessage": {
+      "name": "Dr. A. P. Bhat",
+      "designation": "Principal & Academic Head",
+      "qualifications": "M.Sc., Ph.D.",
+      "text": [
+        "Welcome to Poornaprajna College, an institution conceived under the divine vision of H.H. Sri Vibhudhesha Theertha Swamiji of Sri Admar Mutt. Since our foundation in 1960, we have stood as a beacon of academic rigor and moral uprightness in coastal Karnataka.",
+        "As an autonomous institution affiliated with Mangalore University, we enjoy the curricular freedom to formulate industry-aligned syllabi, foster undergraduate research, and cultivate critical thinking. Our legacy of producing university rank-holders, entrepreneurs, civil servants, and scholars across six decades is a testament to our steadfast pursuit of quality.",
+        "I invite aspiring students to step into our vibrant campus at Volakadu and embark on an enriching voyage of intellect, ethics, and innovation."
+      ]
+    },
+    "aboutSummary": [
+      "Poornaprajna College (Autonomous), Udupi was founded in the year 1960 by the visionary seer of Sri Admar Mutt, His Holiness Sri Vibhudhesha Theertha Swamiji, whose pioneering objective was to harmonize ancient Indian values of scholarship and integrity with contemporary scientific enquiry.",
+      "Managed by the Sri Admar Mutt Education Council (AMEC), the college has blossomed from modest beginnings into a premier institution of higher learning in Karnataka. With state-of-the-art laboratories, a heritage central library housing rare palm-leaf manuscripts and tens of thousands of academic volumes, and an autonomous curriculum designed to meet modern societal and industrial expectations, Poornaprajna remains committed to total student development."
+    ]
+  },
+  "courses": [
+    {
+      "id": "crs-bcom",
+      "code": "BCOM-UG",
+      "title": "Bachelor of Commerce (B.Com.)",
+      "slug": "bcom",
+      "degreeLevel": "Undergraduate",
+      "stream": "Commerce",
+      "duration": "3 Years (6 Semesters) / 4 Years Honours (NEP Framework)",
+      "departmentId": "dept-com",
+      "departmentName": "Department of Commerce",
+      "intake": 240,
+      "eligibility": "Candidates who have passed the Karnataka 2nd PUC examination or Senior Secondary (10+2 / CBSE / ICSE) examination with Commerce / Science / Arts combinations.",
+      "feeInfo": "Concession and fee structures administered as per Autonomous Institution norms. Detailed fee schedule available at the college administrative office.",
+      "description": "The B.Com programme at Poornaprajna College is one of the most prestigious in coastal Karnataka, providing profound knowledge in Financial Accounting, Corporate Law, Direct & Indirect Taxes, Auditing, and Financial Management.",
+      "curriculumOverview": [
+        "Financial Accounting & Advanced Corporate Reporting",
+        "Direct Tax Law & Goods and Services Tax (GST) Practice",
+        "Banking Operations & Indian Financial System",
+        "Cost Accounting, Auditing & Assurance Standards",
+        "Business Analytics & Computerized Accounting (Tally & Excel)"
+      ],
+      "subjects": [
+        "Financial Accounting I to IV",
+        "Principles of Marketing",
+        "Business Law & Company Law",
+        "Financial Management",
+        "Income Tax Law & Practice",
+        "Auditing Principles & Techniques",
+        "E-Commerce & Digital Banking"
+      ],
+      "specializations": [
+        "Financial Accounting & Taxation",
+        "Banking & Insurance",
+        "Cost & Management Accounting"
+      ],
+      "careerOpportunities": [
+        "Chartered Accountancy (CA) / Company Secretary (CS) / CMA preparation",
+        "Corporate Financial Analyst & Accounts Executive",
+        "Tax Consultant & GST Practitioner",
+        "Banking Operations Officer & Wealth Advisory",
+        "Audit Assistant in top firms"
+      ],
+      "higherStudyOptions": [
+        "M.Com. (Master of Commerce)",
+        "M.B.A. (Finance / Marketing / HR)",
+        "CFA / ACCA / US CPA certifications",
+        "LL.B. (Corporate Law)"
+      ],
+      "status": "Admission Open",
+      "faqs": [
+        {
+          "question": "Is Poornaprajna College B.Com autonomous?",
+          "answer": "Yes, Poornaprajna College is an autonomous institution affiliated with Mangalore University, granting syllabus design flexibility and modern evaluation systems."
+        },
+        {
+          "question": "Does the department offer CA foundation coaching?",
+          "answer": "The department coordinates dedicated CA/CS Foundation guidance classes through visiting professionals and alumni mentors."
+        }
+      ]
+    },
+    {
+      "id": "crs-bsc",
+      "code": "BSC-UG",
+      "title": "Bachelor of Science (B.Sc.)",
+      "slug": "bsc",
+      "degreeLevel": "Undergraduate",
+      "stream": "Science",
+      "duration": "3 Years (6 Semesters) / 4 Years Honours (NEP)",
+      "departmentId": "dept-sci",
+      "departmentName": "Faculty of Physical & Biological Sciences",
+      "intake": 180,
+      "eligibility": "Candidates who have passed Karnataka 2nd PUC or 10+2 equivalent with Physics, Chemistry, Mathematics / Biology.",
+      "feeInfo": "Concession as per institutional and state norms. Exact laboratory and fee breakdown available at the administrative counter.",
+      "description": "A foundational sciences programme with cutting-edge experimental laboratories in Physics, Chemistry, Mathematics, Botany, Zoology, and Computer Science.",
+      "curriculumOverview": [
+        "Classical & Quantum Mechanics, Electronics, Optics",
+        "Inorganic, Organic, Physical & Analytical Chemistry",
+        "Calculus, Differential Equations, Linear Algebra & Numerical Analysis",
+        "Computational Programming (Python / C++), Data Structures",
+        "Plant Physiology, Microbiology, Animal Taxonomy & Ecology"
+      ],
+      "subjects": [
+        "Physics Practical & Theory (Mechanics, Electromagnetism, Quantum Physics)",
+        "Chemistry Laboratory & Theory (Thermodynamics, Organic Mechanisms)",
+        "Pure & Applied Mathematics",
+        "Plant Diversity & Cell Biology",
+        "Animal Anatomy & Genetics"
+      ],
+      "specializations": [
+        "PCM (Physics, Chemistry, Mathematics)",
+        "PMC (Physics, Mathematics, Computer Science)",
+        "CBZ (Chemistry, Botany, Zoology)"
+      ],
+      "careerOpportunities": [
+        "Scientific Research & Laboratory Technical Staff",
+        "IT Software Development & Data Analysis (PMC stream)",
+        "Pharmaceuticals, Quality Control & Chemical Analysis",
+        "Defense Services (CDS / NDA) & Scientific Establishments",
+        "Civil Services (UPSC / KPSC)"
+      ],
+      "higherStudyOptions": [
+        "M.Sc. in Physics, Chemistry, Mathematics, Biotechnology",
+        "MCA / M.Sc. Computer Science",
+        "Integrated Ph.D. at premier national institutes (IISc, IITs, TIFR)"
+      ],
+      "status": "Admission Open",
+      "faqs": [
+        {
+          "question": "Are laboratory facilities well equipped?",
+          "answer": "The college maintains spacious, autonomous science laboratories with advanced optical, chemical, and computational equipment."
+        }
+      ]
+    },
+    {
+      "id": "crs-bca",
+      "code": "BCA-UG",
+      "title": "Bachelor of Computer Applications (B.C.A.)",
+      "slug": "bca",
+      "degreeLevel": "Undergraduate",
+      "stream": "Computer Applications",
+      "duration": "3 Years (6 Semesters)",
+      "departmentId": "dept-cs",
+      "departmentName": "Department of Computer Science & Applications",
+      "intake": 120,
+      "eligibility": "Passed Karnataka 2nd PUC or 10+2 in Science, Commerce or Arts with Mathematics / Statistics / Computer Science or equivalent proficiency.",
+      "feeInfo": "Fee details provided through the admissions office.",
+      "description": "A technology-intensive curriculum emphasizing software engineering, web architectures, mobile app creation, database systems, and modern full-stack methodologies.",
+      "curriculumOverview": [
+        "Problem Solving with C, C++, Java, and Python",
+        "Data Structures, Algorithms & Object-Oriented System Design",
+        "Relational Database Management Systems (SQL) & NoSQL",
+        "Web Technologies, Full-Stack Development & Cloud Concepts",
+        "Computer Networks, Cybersecurity, and Software Engineering"
+      ],
+      "subjects": [
+        "Programming in Java & Spring Fundamentals",
+        "Database Systems & DBMS Lab",
+        "Python for Data Science",
+        "Operating Systems & Linux Administration",
+        "Cloud Architecture & Software Testing",
+        "Capstone Software Project"
+      ],
+      "specializations": [
+        "Software Development & Web Technologies",
+        "Data Analytics & Database Management",
+        "Cloud Computing & Networks"
+      ],
+      "careerOpportunities": [
+        "Software Engineer / Full Stack Developer",
+        "Web Applications Engineer",
+        "Database Administrator & Systems Analyst",
+        "QA & Automation Engineer",
+        "Technical Support & Cloud Associate"
+      ],
+      "higherStudyOptions": [
+        "M.C.A. (Master of Computer Applications)",
+        "M.Sc. Information Technology / Data Science",
+        "M.B.A. in Information Systems"
+      ],
+      "status": "Admission Open",
+      "faqs": [
+        {
+          "question": "Does the BCA program include a major project?",
+          "answer": "Yes, final year students develop real-world software applications under departmental faculty mentorship."
+        }
+      ]
+    },
+    {
+      "id": "crs-bba",
+      "code": "BBA-UG",
+      "title": "Bachelor of Business Administration (B.B.A.)",
+      "slug": "bba",
+      "degreeLevel": "Undergraduate",
+      "stream": "Management",
+      "duration": "3 Years (6 Semesters)",
+      "departmentId": "dept-mgmt",
+      "departmentName": "Department of Business Administration",
+      "intake": 90,
+      "eligibility": "Passed Karnataka 2nd PUC or 10+2 from any recognized board in any stream.",
+      "feeInfo": "Administered as per autonomous institution policies.",
+      "description": "Designed to nurture managerial competence, entrepreneurial leadership, marketing strategy, human resource dynamics, and supply chain fundamentals.",
+      "curriculumOverview": [
+        "Management Concepts & Organizational Behaviour",
+        "Marketing Management & Consumer Insights",
+        "Financial Management & Working Capital Planning",
+        "Human Resource Management & Labour Laws",
+        "Business Analytics, Entrepreneurship & Startup Incubation"
+      ],
+      "subjects": [
+        "Principles of Management",
+        "Marketing Strategy & Advertising",
+        "Corporate Accounting & Financial Management",
+        "Human Resource Development",
+        "Business Research Methods",
+        "International Business & Strategic Management"
+      ],
+      "specializations": [
+        "Marketing Management",
+        "Financial Management",
+        "Human Resource Management"
+      ],
+      "careerOpportunities": [
+        "Business Development & Corporate Sales Executive",
+        "Marketing Associate & Brand Coordinator",
+        "HR Talent Acquisition Specialist",
+        "Operations & Supply Chain Assistant",
+        "Entrepreneur & Business Founder"
+      ],
+      "higherStudyOptions": [
+        "M.B.A. (Top national & international b-schools)",
+        "Post Graduate Diploma in Management (PGDM)",
+        "M.S. in Management & International Business"
+      ],
+      "status": "Admission Open",
+      "faqs": [
+        {
+          "question": "Are internships mandatory in BBA?",
+          "answer": "Yes, students undertake an industry internship and institutional project report in their final year."
+        }
+      ]
+    },
+    {
+      "id": "crs-ba",
+      "code": "BA-UG",
+      "title": "Bachelor of Arts (B.A.)",
+      "slug": "ba",
+      "degreeLevel": "Undergraduate",
+      "stream": "Arts",
+      "duration": "3 Years (6 Semesters) / 4 Years Honours (NEP)",
+      "departmentId": "dept-arts",
+      "departmentName": "Faculty of Humanities & Social Sciences",
+      "intake": 120,
+      "eligibility": "Passed Karnataka 2nd PUC or equivalent 10+2 examination in Arts, Science or Commerce.",
+      "feeInfo": "Concession schemes and fees as approved by the college authority.",
+      "description": "A rich interdisciplinary program cultivating critical humanities perspective, historical enquiry, socio-economic analysis, and linguistic mastery.",
+      "curriculumOverview": [
+        "History of India, Regional Karnataka History, and Modern World",
+        "Micro & Macro Economics, Development Economics, Indian Economy",
+        "Political Theory, Indian Constitution, Public Administration",
+        "Literary Studies in English & Kannada, Classical & Contemporary Texts",
+        "Sociology, Social Research, and Rural Development"
+      ],
+      "subjects": [
+        "History of Karnataka & Cultural Heritage",
+        "Economics of Growth & Public Finance",
+        "Indian Political Thought & Governance",
+        "English Literature & Critical Studies",
+        "Kannada Classical Literature & Modern Trends"
+      ],
+      "specializations": [
+        "History, Economics, Political Science (HEP)",
+        "Economics, History, English Literature",
+        "Kannada Literature & Humanities Combinations"
+      ],
+      "careerOpportunities": [
+        "Civil Services (IAS, IPS, KAS, KES)",
+        "Journalism, Media & Content Publishing",
+        "Public Policy, NGO & Social Sector Leadership",
+        "Academic Teaching & Research",
+        "Heritage Tourism & Museum Archival Management"
+      ],
+      "higherStudyOptions": [
+        "M.A. in Economics, History, English, Political Science, Kannada",
+        "Master of Social Work (MSW) / Public Administration (MPA)",
+        "LL.B. (Bachelor of Legislative Law)"
+      ],
+      "status": "Admission Open",
+      "faqs": [
+        {
+          "question": "Is there civil service coaching available?",
+          "answer": "The college operates a dedicated Career Guidance & Competitive Examinations Cell that provides periodic seminars for UPSC and KPSC aspirants."
+        }
+      ]
+    },
+    {
+      "id": "crs-mcom",
+      "code": "MCOM-PG",
+      "title": "Master of Commerce (M.Com.)",
+      "slug": "mcom",
+      "degreeLevel": "Postgraduate",
+      "stream": "Commerce",
+      "duration": "2 Years (4 Semesters)",
+      "departmentId": "dept-com",
+      "departmentName": "Postgraduate Department of Commerce",
+      "intake": 50,
+      "eligibility": "B.Com / B.B.A. graduates from a recognized university with minimum 45% aggregate marks (40% for SC/ST/Category-I).",
+      "feeInfo": "Administered as per PG autonomous guidelines. Schedule available at office.",
+      "description": "An advanced postgraduate program fostering analytical mastery of capital markets, international corporate finance, strategic taxation, and business research methodology.",
+      "curriculumOverview": [
+        "Corporate Accounting Standards & IFRS",
+        "Security Analysis & Portfolio Management",
+        "Strategic Financial Management & Derivative Markets",
+        "Corporate Tax Planning & Indirect Tax Policies",
+        "Research Methodology & Mandatory PG Dissertation"
+      ],
+      "subjects": [
+        "Advanced Financial Management",
+        "Capital Markets & Mutual Funds",
+        "International Business Finance",
+        "Corporate Restructuring & Valuation",
+        "Master Dissertation & Viva-Voce"
+      ],
+      "specializations": [
+        "Financial Management & Capital Markets",
+        "Taxation & Corporate Laws"
+      ],
+      "careerOpportunities": [
+        "College & University Lecturership (UGC-NET / KSET qualified)",
+        "Senior Financial Analyst / Equity Research Associate",
+        "Investment Banking Associate",
+        "Corporate Controller & Risk Consultant"
+      ],
+      "higherStudyOptions": [
+        "Ph.D. in Commerce & Management",
+        "Post-Doctoral & Fellow Programs"
+      ],
+      "status": "Admission Open",
+      "faqs": [
+        {
+          "question": "Is a master's dissertation compulsory?",
+          "answer": "Yes, every M.Com student writes a guided research dissertation on an empirical business or financial problem."
+        }
+      ]
+    },
+    {
+      "id": "crs-msc-math",
+      "code": "MSCMATH-PG",
+      "title": "M.Sc. in Mathematics",
+      "slug": "msc-mathematics",
+      "degreeLevel": "Postgraduate",
+      "stream": "Science",
+      "duration": "2 Years (4 Semesters)",
+      "departmentId": "dept-math",
+      "departmentName": "Postgraduate Department of Mathematics",
+      "intake": 30,
+      "eligibility": "B.Sc. graduates with Mathematics as a major/cognate subject from a recognized university with minimum 45% marks (40% for SC/ST/Category-I).",
+      "feeInfo": "Contact PG office for official fee breakup.",
+      "description": "A prestigious PG programme in pure and applied mathematical science, developing mastery in algebra, topology, differential manifolds, graph theory, and computational mathematics.",
+      "curriculumOverview": [
+        "Abstract & Linear Algebra, Galois Theory",
+        "Real & Complex Analysis, Functional Analysis",
+        "General Topology & Differential Geometry",
+        "Numerical Analysis with MATLAB/Python Computing",
+        "Graph Theory, Operations Research, and PG Project"
+      ],
+      "subjects": [
+        "Advanced Abstract Algebra",
+        "Measure Theory & Integration",
+        "Ordinary & Partial Differential Equations",
+        "Functional Analysis & Operator Theory",
+        "Graph Theory & Combinatorics",
+        "PG Mathematical Research Project"
+      ],
+      "specializations": [
+        "Pure Mathematics & Analysis",
+        "Applied Mathematics & Scientific Computing"
+      ],
+      "careerOpportunities": [
+        "Higher Secondary & Collegiate Teaching (CSIR-NET/GATE)",
+        "Mathematical Modeler & Cryptography Analyst",
+        "Operations Research & Optimization Specialist",
+        "Data Scientist & Quantitative Analyst"
+      ],
+      "higherStudyOptions": [
+        "Ph.D. in Mathematics at IISc, TIFR, IMSc, CMI, IITs",
+        "Post-Doctoral Fellowships"
+      ],
+      "status": "Admission Open",
+      "faqs": [
+        {
+          "question": "Are there CSIR-NET coaching sessions?",
+          "answer": "The department conducts regular problem-solving workshops and NET coaching sessions for postgraduates."
+        }
+      ]
+    }
+  ],
+  "departments": [
+    {
+      "id": "dept-com",
+      "code": "COM",
+      "name": "Department of Commerce",
+      "stream": "Commerce",
+      "hodName": "Head of Department (Commerce)",
+      "hodQualification": "M.Com., Ph.D.",
+      "hodMessage": "Our mission is to sculpt ethically sound, technically adept commerce professionals who steer corporate India and financial institutions with integrity.",
+      "overview": "Established alongside the college in 1960, the Department of Commerce is the cornerstone of academic achievement at Poornaprajna, consistently achieving stellar university outcomes and active industry engagement.",
+      "programmesOffered": [
+        "B.Com. (General & Honours)",
+        "M.Com. (Master of Commerce)"
+      ],
+      "facilities": [
+        "Commerce Computer Lab",
+        "Department Library",
+        "Business Simulation Desk",
+        "CA/CS Guidance Cell"
+      ],
+      "researchAreas": [
+        "Microfinance & Rural Banking",
+        "Corporate Governance",
+        "Digital Payments & FinTech",
+        "GST Compliance Analysis"
+      ],
+      "contactEmail": "commerce@ppc.edu.in",
+      "contactExtension": "Ext. 201"
+    },
+    {
+      "id": "dept-sci",
+      "code": "SCI",
+      "name": "Faculty of Physical & Natural Sciences",
+      "stream": "Science",
+      "hodName": "Head of Faculty (Sciences)",
+      "hodQualification": "M.Sc., Ph.D.",
+      "hodMessage": "We foster an empirical spirit, training minds to observe, hypothesize, test, and innovate for sustainable societal advancement.",
+      "overview": "Encompassing spacious laboratories in Physics, Chemistry, Botany, and Zoology, the Science faculty is recognized for its undergraduate research culture and experiential learning.",
+      "programmesOffered": [
+        "B.Sc. (PCM, PMC, CBZ)",
+        "M.Sc. Mathematics"
+      ],
+      "facilities": [
+        "Optics & Electronics Lab",
+        "Inorganic & Organic Synthesis Labs",
+        "Botanical Herbarium & Green House",
+        "Zoological Specimen Museum"
+      ],
+      "researchAreas": [
+        "Condensed Matter Physics",
+        "Synthetic Coordination Chemistry",
+        "Medicinal Plant Flora of Western Ghats",
+        "Aquatic Biodiversity in Udupi Coastal Belt"
+      ],
+      "contactEmail": "sciences@ppc.edu.in",
+      "contactExtension": "Ext. 204"
+    },
+    {
+      "id": "dept-cs",
+      "code": "CS",
+      "name": "Department of Computer Science & Applications",
+      "stream": "Computer Applications",
+      "hodName": "Head of Department (Computer Science)",
+      "hodQualification": "M.C.A., M.Tech.",
+      "hodMessage": "Bridging algorithmic rigor with modern software engineering paradigms to produce competent builders of modern digital systems.",
+      "overview": "Equipped with modern networked computing systems, high-speed fiber-optic connectivity, and licensed development toolchains, serving both BCA and B.Sc. (PMC) students.",
+      "programmesOffered": [
+        "B.C.A. (Bachelor of Computer Applications)",
+        "B.Sc. Computer Science"
+      ],
+      "facilities": [
+        "Central Computing Lab (120+ networked systems)",
+        "Project Development Studio",
+        "Hardware & Networking Workbench"
+      ],
+      "researchAreas": [
+        "Machine Learning Applications",
+        "Database Optimization",
+        "Cybersecurity & Web Protocols"
+      ],
+      "contactEmail": "computerscience@ppc.edu.in",
+      "contactExtension": "Ext. 210"
+    },
+    {
+      "id": "dept-mgmt",
+      "code": "MGMT",
+      "name": "Department of Business Administration",
+      "stream": "Management",
+      "hodName": "Head of Department (Management)",
+      "hodQualification": "M.B.A., Ph.D.",
+      "hodMessage": "Developing agile leaders who combine entrepreneurial vigor with ethical organizational values.",
+      "overview": "Focusing on executive case studies, management fests, startup incubation seminars, and corporate internships.",
+      "programmesOffered": [
+        "B.B.A. (Bachelor of Business Administration)"
+      ],
+      "facilities": [
+        "Management Case Study Hall",
+        "Incubation Discussion Room"
+      ],
+      "researchAreas": [
+        "Consumer Behavior in Tier-2 Cities",
+        "MSME Supply Chain Dynamics",
+        "Talent Management"
+      ],
+      "contactEmail": "bba@ppc.edu.in",
+      "contactExtension": "Ext. 208"
+    },
+    {
+      "id": "dept-arts",
+      "code": "ARTS",
+      "name": "Faculty of Humanities & Social Sciences",
+      "stream": "Arts",
+      "hodName": "Head of Faculty (Humanities)",
+      "hodQualification": "M.A., Ph.D.",
+      "hodMessage": "Nurturing humanist empathy, cultural appreciation, and rigorous civic analysis in an evolving world.",
+      "overview": "Houses distinguished departments of Economics, History, Political Science, English, Kannada, and Sanskrit, with deep roots in regional heritage.",
+      "programmesOffered": [
+        "B.A. (Humanities Combinations)"
+      ],
+      "facilities": [
+        "Language Lab",
+        "Manuscript & Archival Reading Corner",
+        "Heritage Study Forum"
+      ],
+      "researchAreas": [
+        "Agrarian Economics of Coastal Karnataka",
+        "Temple Architecture & Epigraphy of Tulunadu",
+        "Folklore & Yakshagana Studies"
+      ],
+      "contactEmail": "humanities@ppc.edu.in",
+      "contactExtension": "Ext. 215"
+    },
+    {
+      "id": "dept-math",
+      "code": "MATH",
+      "name": "Postgraduate Department of Mathematics",
+      "stream": "Science",
+      "hodName": "Head of Department (Mathematics)",
+      "hodQualification": "M.Sc., Ph.D.",
+      "hodMessage": "Unlocking the beauty and power of mathematical abstraction for pure scholarship and computational applications.",
+      "overview": "A vibrant center for mathematical study offering both undergraduate mathematics courses and the premier M.Sc. Mathematics programme.",
+      "programmesOffered": [
+        "M.Sc. Mathematics",
+        "B.Sc. Mathematics"
+      ],
+      "facilities": [
+        "Computational Math Lab with Python/Scilab",
+        "Departmental Mathematics Library"
+      ],
+      "researchAreas": [
+        "Graph Theory & Network Topologies",
+        "Fluid Dynamics",
+        "Algebraic Number Theory"
+      ],
+      "contactEmail": "maths@ppc.edu.in",
+      "contactExtension": "Ext. 218"
+    }
+  ],
+  "faculty": [
+    {
+      "id": "fac-1",
+      "name": "Faculty Representative (Commerce)",
+      "departmentId": "dept-com",
+      "departmentName": "Department of Commerce",
+      "designation": "Associate Professor & HoD",
+      "qualification": "M.Com., M.Phil., Ph.D.",
+      "specialization": "Corporate Accounting & Taxation",
+      "experienceYears": 24,
+      "email": "commerce.faculty1@ppc.edu.in"
+    },
+    {
+      "id": "fac-2",
+      "name": "Faculty Representative (Physics)",
+      "departmentId": "dept-sci",
+      "departmentName": "Faculty of Physical & Natural Sciences",
+      "designation": "Associate Professor",
+      "qualification": "M.Sc., Ph.D.",
+      "specialization": "Solid State Physics & Electronics",
+      "experienceYears": 19,
+      "email": "physics.faculty1@ppc.edu.in"
+    },
+    {
+      "id": "fac-3",
+      "name": "Faculty Representative (Mathematics)",
+      "departmentId": "dept-math",
+      "departmentName": "Postgraduate Department of Mathematics",
+      "designation": "Professor & PG Coordinator",
+      "qualification": "M.Sc., Ph.D.",
+      "specialization": "Graph Theory & Topology",
+      "experienceYears": 22,
+      "email": "maths.faculty1@ppc.edu.in"
+    },
+    {
+      "id": "fac-4",
+      "name": "Faculty Representative (Computer Science)",
+      "departmentId": "dept-cs",
+      "departmentName": "Department of Computer Science & Applications",
+      "designation": "Assistant Professor",
+      "qualification": "M.C.A., M.Tech.",
+      "specialization": "Data Structures & Cloud Architecture",
+      "experienceYears": 14,
+      "email": "cs.faculty1@ppc.edu.in"
+    }
+  ],
+  "notices": [
+    {
+      "id": "not-1",
+      "title": "Notification for Autonomous End-Semester Examinations (Oct-Nov Session)",
+      "category": "Examination",
+      "date": "2026-03-28",
+      "description": "All undergraduate (UG) and postgraduate (PG) students under the autonomous curriculum are hereby informed that examination application forms and fee payment schedules for the forthcoming end-semester examinations are now released.",
+      "fileName": "Autonomous_Exam_Notification_2026.pdf",
+      "fileUrl": "#download",
+      "isImportant": true,
+      "isPublished": true,
+      "targetAudience": "Students"
+    },
+    {
+      "id": "not-2",
+      "title": "Commencement of Online Applications for Admissions 2026–27",
+      "category": "Admission",
+      "date": "2026-04-02",
+      "description": "Online admission applications for B.Com, B.Sc, B.C.A, B.B.A, B.A, M.Com, and M.Sc Mathematics for the academic year 2026–27 are open. Eligible candidates can apply directly through the official admissions portal.",
+      "fileName": "Admission_Guidelines_2026_27.pdf",
+      "fileUrl": "#admissions",
+      "isImportant": true,
+      "isPublished": true,
+      "targetAudience": "Applicants"
+    },
+    {
+      "id": "not-3",
+      "title": "Declaration of Autonomous Revaluation & Scrutiny Results",
+      "category": "Results",
+      "date": "2026-03-20",
+      "description": "Revaluation and scrutiny results for the previous odd semester examinations have been consolidated. Students may verify their revised grade sheets via the College Examination Results portal.",
+      "fileName": "Revaluation_Results_Notification.pdf",
+      "fileUrl": "#results",
+      "isImportant": false,
+      "isPublished": true,
+      "targetAudience": "Students"
+    },
+    {
+      "id": "not-4",
+      "title": "State Post-Matric & SSP Scholarship Portal Submission Deadline",
+      "category": "Scholarships",
+      "date": "2026-03-15",
+      "description": "Eligible SC/ST, OBC, and Minority students applying for State Scholarship Portal (SSP) Post-Matric concessions are instructed to submit attested e-attestation documents at the college scholarship counter before the stipulated deadline.",
+      "fileName": "SSP_Scholarship_Circular_2026.pdf",
+      "fileUrl": "#download",
+      "isImportant": false,
+      "isPublished": true,
+      "targetAudience": "Students"
+    },
+    {
+      "id": "not-5",
+      "title": "Autonomous Academic Calendar for Academic Year 2026–27",
+      "category": "Circular",
+      "date": "2026-03-10",
+      "description": "Approved calendar of events for Odd & Even semesters, including internal assessment dates, cultural and sports week schedules, and vacation periods as sanctioned by the Academic Council.",
+      "fileName": "Autonomous_Academic_Calendar_2026_27.pdf",
+      "fileUrl": "#download",
+      "isImportant": true,
+      "isPublished": true,
+      "targetAudience": "All"
+    }
+  ],
+  "events": [
+    {
+      "id": "ev-1",
+      "title": "National Conference on Contemporary Paradigms in Commerce & FinTech",
+      "category": "Conference",
+      "date": "2026-04-24",
+      "time": "09:30 AM – 04:30 PM",
+      "venue": "Sri Vibhudhesha Theertha Mini Auditorium",
+      "departmentName": "Department of Commerce",
+      "description": "A two-day national seminar bringing academic researchers, chartered accountants, and policy analysts to deliberate on digital taxation, ESG accounting, and banking innovations.",
+      "registrationOpen": true,
+      "status": "Upcoming"
+    },
+    {
+      "id": "ev-2",
+      "title": "Prajna Vijnana: Intercollegiate Science Exhibition & Symposium",
+      "category": "Academic",
+      "date": "2026-05-08",
+      "time": "10:00 AM – 05:00 PM",
+      "venue": "College Main Quadrangle & Science Labs",
+      "departmentName": "Faculty of Physical & Natural Sciences",
+      "description": "State-level science fest featuring working models, mathematical problem sprints, and student research presentations from collegiate institutions across Karnataka.",
+      "registrationOpen": true,
+      "status": "Upcoming"
+    },
+    {
+      "id": "ev-3",
+      "title": "Annual Sports Meet & Inter-Departmental Athletic Championship",
+      "category": "Sports",
+      "date": "2026-05-18",
+      "time": "08:00 AM – 05:30 PM",
+      "venue": "Poornaprajna Sports Grounds, Volakadu",
+      "departmentName": "Department of Physical Education",
+      "description": "Track and field events, relay championships, and traditional coastal sports with active participation of all student houses.",
+      "registrationOpen": false,
+      "status": "Upcoming"
+    }
+  ],
+  "applications": [
+    {
+      "id": "app-muwfc3p7",
+      "applicationId": "PPC-2026-1048",
+      "submittedAt": "2026-10-06T08:35:56.731Z",
+      "fullName": "Test Candidate",
+      "dob": "",
+      "gender": "Other",
+      "mobileNumber": "",
+      "email": "",
+      "address": "",
+      "city": "",
+      "state": "Karnataka",
+      "pincode": "",
+      "pucBoard": "",
+      "passingYear": "2026",
+      "percentageMarks": 92,
+      "preferredCourseId": "",
+      "preferredCourseTitle": "Bachelor of Commerce (B.Com.)",
+      "category": "General",
+      "previousInstitution": "",
+      "parentName": "",
+      "parentMobile": "",
+      "parentOccupation": "",
+      "documentsUploaded": {
+        "photograph": false,
+        "idProof": false,
+        "marksCard": false,
+        "transferCertificate": false
+      },
+      "status": "Submitted",
+      "adminRemarks": "Application received online. Awaiting document verification."
+    },
+    {
+      "id": "app-1",
+      "applicationId": "PPC-2026-1042",
+      "submittedAt": "2026-04-03T10:15:00Z",
+      "fullName": "Vignesh A. Bhat",
+      "dob": "2008-05-14",
+      "gender": "Male",
+      "mobileNumber": "+91 98451 22345",
+      "email": "vignesh.bhat@example.com",
+      "address": "Kadiyali Temple Road",
+      "city": "Udupi",
+      "state": "Karnataka",
+      "pincode": "576102",
+      "pucBoard": "Karnataka Department of Pre-University Education",
+      "passingYear": "2026",
+      "percentageMarks": 91.5,
+      "preferredCourseId": "crs-bcom",
+      "preferredCourseTitle": "Bachelor of Commerce (B.Com.)",
+      "category": "General",
+      "previousInstitution": "Poornaprajna PU College, Udupi",
+      "parentName": "Anantha Bhat",
+      "parentMobile": "+91 94481 33456",
+      "documentsUploaded": {
+        "photograph": true,
+        "idProof": true,
+        "marksCard": true,
+        "transferCertificate": true
+      },
+      "status": "Under Review",
+      "adminRemarks": "Documents verified. Marks criteria satisfied."
+    },
+    {
+      "id": "app-2",
+      "applicationId": "PPC-2026-1043",
+      "submittedAt": "2026-04-03T11:45:00Z",
+      "fullName": "Ananya Rao",
+      "dob": "2008-08-22",
+      "gender": "Female",
+      "mobileNumber": "+91 97412 88990",
+      "email": "ananya.rao@example.com",
+      "address": "Brahmagiri Enclave",
+      "city": "Udupi",
+      "state": "Karnataka",
+      "pincode": "576101",
+      "pucBoard": "Karnataka PUC Board",
+      "passingYear": "2026",
+      "percentageMarks": 94.2,
+      "preferredCourseId": "crs-bca",
+      "preferredCourseTitle": "Bachelor of Computer Applications (B.C.A.)",
+      "category": "General",
+      "previousInstitution": "MGM PU College, Udupi",
+      "parentName": "Srinivasa Rao",
+      "parentMobile": "+91 98860 11223",
+      "documentsUploaded": {
+        "photograph": true,
+        "idProof": true,
+        "marksCard": true,
+        "transferCertificate": true
+      },
+      "status": "Shortlisted",
+      "adminRemarks": "Eligible for Merit Category list 1."
+    },
+    {
+      "id": "app-3",
+      "applicationId": "PPC-2026-1044",
+      "submittedAt": "2026-04-04T09:30:00Z",
+      "fullName": "Prajwal Nayak",
+      "dob": "2008-01-19",
+      "gender": "Male",
+      "mobileNumber": "+91 96112 34567",
+      "email": "prajwal.nayak@example.com",
+      "address": "Kinnimulki Main Road",
+      "city": "Udupi",
+      "state": "Karnataka",
+      "pincode": "576101",
+      "pucBoard": "CBSE Senior Secondary",
+      "passingYear": "2026",
+      "percentageMarks": 86.8,
+      "preferredCourseId": "crs-bsc",
+      "preferredCourseTitle": "Bachelor of Science (B.Sc.)",
+      "category": "OBC",
+      "previousInstitution": "Sharada PU College",
+      "parentName": "Gopalakrishna Nayak",
+      "parentMobile": "+91 94812 44556",
+      "documentsUploaded": {
+        "photograph": true,
+        "idProof": true,
+        "marksCard": true,
+        "transferCertificate": false
+      },
+      "status": "Submitted",
+      "adminRemarks": "Awaiting Transfer Certificate submission."
+    }
+  ],
+  "results": [
+    {
+      "id": "res-1",
+      "registerNumber": "22PPC1042",
+      "studentName": "Aditya S. Shenoy",
+      "courseTitle": "Bachelor of Commerce (B.Com.)",
+      "semester": "Semester IV",
+      "examSession": "Autonomous Odd-Even Examinations 2025–26",
+      "declarationDate": "2026-02-18",
+      "sgpa": 8.84,
+      "resultStatus": "DISTINCTION",
+      "subjects": [
+        {
+          "code": "COM401",
+          "name": "Corporate Financial Accounting II",
+          "credits": 4,
+          "internalMarks": 27,
+          "externalMarks": 65,
+          "totalMarks": 92,
+          "grade": "A+",
+          "result": "P"
+        },
+        {
+          "code": "COM402",
+          "name": "Direct Taxation & GST",
+          "credits": 4,
+          "internalMarks": 28,
+          "externalMarks": 60,
+          "totalMarks": 88,
+          "grade": "A+",
+          "result": "P"
+        },
+        {
+          "code": "COM403",
+          "name": "Business Regulatory Framework",
+          "credits": 3,
+          "internalMarks": 25,
+          "externalMarks": 58,
+          "totalMarks": 83,
+          "grade": "A",
+          "result": "P"
+        },
+        {
+          "code": "COM404",
+          "name": "Cost & Management Accounting",
+          "credits": 4,
+          "internalMarks": 29,
+          "externalMarks": 63,
+          "totalMarks": 92,
+          "grade": "A+",
+          "result": "P"
+        },
+        {
+          "code": "COM405",
+          "name": "Computer Applications in Business Lab",
+          "credits": 2,
+          "internalMarks": 20,
+          "externalMarks": 28,
+          "totalMarks": 48,
+          "grade": "O",
+          "result": "P"
+        }
+      ]
+    },
+    {
+      "id": "res-2",
+      "registerNumber": "23PPC2015",
+      "studentName": "Deepika Acharya",
+      "courseTitle": "Bachelor of Science (B.Sc. - PMC)",
+      "semester": "Semester II",
+      "examSession": "Autonomous Examinations 2025–26",
+      "declarationDate": "2026-02-18",
+      "sgpa": 9.12,
+      "resultStatus": "DISTINCTION",
+      "subjects": [
+        {
+          "code": "PHY201",
+          "name": "Electricity & Magnetism",
+          "credits": 4,
+          "internalMarks": 28,
+          "externalMarks": 67,
+          "totalMarks": 95,
+          "grade": "O",
+          "result": "P"
+        },
+        {
+          "code": "MAT201",
+          "name": "Differential Equations & Real Analysis",
+          "credits": 4,
+          "internalMarks": 30,
+          "externalMarks": 65,
+          "totalMarks": 95,
+          "grade": "O",
+          "result": "P"
+        },
+        {
+          "code": "CSC201",
+          "name": "Data Structures Using C++",
+          "credits": 4,
+          "internalMarks": 27,
+          "externalMarks": 60,
+          "totalMarks": 87,
+          "grade": "A+",
+          "result": "P"
+        },
+        {
+          "code": "PRC201",
+          "name": "Physics Laboratory Practical II",
+          "credits": 2,
+          "internalMarks": 20,
+          "externalMarks": 29,
+          "totalMarks": 49,
+          "grade": "O",
+          "result": "P"
+        }
+      ]
+    },
+    {
+      "id": "res-3",
+      "registerNumber": "22PPC3008",
+      "studentName": "Karthik K. Poojary",
+      "courseTitle": "Bachelor of Computer Applications (B.C.A.)",
+      "semester": "Semester VI",
+      "examSession": "Autonomous Examinations 2025–26",
+      "declarationDate": "2026-02-18",
+      "sgpa": 8.45,
+      "resultStatus": "FIRST CLASS",
+      "subjects": [
+        {
+          "code": "BCA601",
+          "name": "Cloud Computing & Distributed Systems",
+          "credits": 4,
+          "internalMarks": 26,
+          "externalMarks": 58,
+          "totalMarks": 84,
+          "grade": "A",
+          "result": "P"
+        },
+        {
+          "code": "BCA602",
+          "name": "Cybersecurity & Cryptography",
+          "credits": 4,
+          "internalMarks": 25,
+          "externalMarks": 57,
+          "totalMarks": 82,
+          "grade": "A",
+          "result": "P"
+        },
+        {
+          "code": "BCA603",
+          "name": "Mobile Application Development",
+          "credits": 3,
+          "internalMarks": 28,
+          "externalMarks": 60,
+          "totalMarks": 88,
+          "grade": "A+",
+          "result": "P"
+        },
+        {
+          "code": "BCA604",
+          "name": "Major Project & Viva-Voce",
+          "credits": 6,
+          "internalMarks": 48,
+          "externalMarks": 92,
+          "totalMarks": 140,
+          "grade": "A+",
+          "result": "P"
+        }
+      ]
+    }
+  ],
+  "enquiries": [
+    {
+      "id": "enq-1",
+      "name": "Suresh Kamath",
+      "email": "suresh.kamath@gmail.com",
+      "mobile": "+91 98452 77112",
+      "subject": "Inquiry regarding B.Com with CA Foundation guidance",
+      "programme": "Bachelor of Commerce (B.Com.)",
+      "message": "Kindly let me know the timing of CA Foundation coaching sessions coordinated with degree classes.",
+      "submittedAt": "2026-04-02T14:20:00Z",
+      "status": "Replied",
+      "adminNotes": "Shared brochure and CA cell timings."
+    },
+    {
+      "id": "enq-2",
+      "name": "Meera Kudva",
+      "email": "meera.k@outlook.com",
+      "mobile": "+91 97410 55667",
+      "subject": "M.Sc. Mathematics Admission Procedure & Eligibility",
+      "programme": "M.Sc. in Mathematics",
+      "message": "I graduated B.Sc from Mangalore University with 78%. Can I apply for autonomous PG admission directly?",
+      "submittedAt": "2026-04-03T16:05:00Z",
+      "status": "New"
+    }
+  ],
+  "alumni": [
+    {
+      "id": "alm-1",
+      "fullName": "Prashanth K. Upadhyaya",
+      "batchYear": "1998",
+      "courseStudied": "B.Sc. (Physics, Mathematics, Chemistry)",
+      "currentDesignation": "Principal Scientific Officer",
+      "currentCompanyOrInstitute": "Indian Space Research Organisation (ISRO)",
+      "location": "Bengaluru, India",
+      "email": "prashanth.isro@alumni.ppc.edu.in",
+      "phone": "+91 98450 11223",
+      "testimonial": "The rigorous scientific discipline and foundational physics lab training at Poornaprajna laid the bedrock for my research career. Sri Swamiji's vision lives on in every corridor.",
+      "isApproved": true,
+      "submittedAt": "2024-02-10T11:00:00Z"
+    },
+    {
+      "id": "alm-2",
+      "fullName": "Vani S. Rao, FCA",
+      "batchYear": "2006",
+      "courseStudied": "B.Com.",
+      "currentDesignation": "Partner & Tax Head",
+      "currentCompanyOrInstitute": "Rao & Shenoy Chartered Accountants",
+      "location": "Mangaluru, India",
+      "email": "vani.fca@alumni.ppc.edu.in",
+      "phone": "+91 94481 77665",
+      "testimonial": "Poornaprajna Department of Commerce gave me not just accounting concepts, but the ethics of accountability. Proud to be an alumna of this venerable autonomous college.",
+      "isApproved": true,
+      "submittedAt": "2024-05-18T15:30:00Z"
+    }
+  ],
+  "downloads": [
+    {
+      "id": "dl-1",
+      "title": "Institutional Prospectus & Information Handbook 2026–27",
+      "category": "Prospectus",
+      "fileSize": "4.2 MB",
+      "uploadDate": "2026-04-01",
+      "downloadUrl": "#download"
+    },
+    {
+      "id": "dl-2",
+      "title": "Undergraduate & Postgraduate Admission Form (Printable)",
+      "category": "Admission Forms",
+      "fileSize": "850 KB",
+      "uploadDate": "2026-03-25",
+      "downloadUrl": "#download"
+    },
+    {
+      "id": "dl-3",
+      "title": "Autonomous Curriculum Regulations & NEP Framework Guidelines",
+      "category": "Regulations",
+      "fileSize": "1.8 MB",
+      "uploadDate": "2026-03-12",
+      "downloadUrl": "#download"
+    },
+    {
+      "id": "dl-4",
+      "title": "Academic Calendar & Examination Schedule 2026–27",
+      "category": "Academic Calendar",
+      "fileSize": "620 KB",
+      "uploadDate": "2026-03-10",
+      "downloadUrl": "#download"
+    },
+    {
+      "id": "dl-5",
+      "title": "Autonomous Examination Model Question Papers & Blueprints",
+      "category": "Examination",
+      "fileSize": "5.4 MB",
+      "uploadDate": "2026-02-20",
+      "downloadUrl": "#download"
+    }
+  ],
+  "gallery": [
+    {
+      "id": "gal-1",
+      "title": "Poornaprajna College Main Heritage Portico",
+      "category": "Campus",
+      "caption": "The majestic main building of Poornaprajna College at Volakadu, standing since 1960.",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "gal-2",
+      "title": "Veda & Central Heritage Library",
+      "category": "Academics",
+      "caption": "Housing over 50,000 academic titles, national research journals, and quiet research cubicles.",
+      "aspectRatio": "4:3"
+    },
+    {
+      "id": "gal-3",
+      "title": "Advanced Physical & Chemical Sciences Laboratories",
+      "category": "Academics",
+      "caption": "Students engaged in autonomous practical research and experimental demonstrations.",
+      "aspectRatio": "4:3"
+    },
+    {
+      "id": "gal-4",
+      "title": "Sri Vibhudhesha Theertha Memorial Seminar Hall",
+      "category": "Events",
+      "caption": "Venue for national conferences, endowed academic lectures, and cultural deliberations.",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "gal-5",
+      "title": "NCC 21 Karnataka Battalion Ceremonial Parade",
+      "category": "Sports",
+      "caption": "PPC NCC cadets representing the institution with pride in national camps and RDC.",
+      "aspectRatio": "4:3"
+    },
+    {
+      "id": "gal-6",
+      "title": "Annual Yakshagana & Coastal Cultural Fest",
+      "category": "Cultural",
+      "caption": "Preserving and celebrating the vibrant traditional performing arts of Tulunadu.",
+      "aspectRatio": "16:9"
+    }
+  ],
+  "users": [
+    {
+      "id": "usr-1",
+      "name": "Dr. K. Narayana Upadhyaya",
+      "email": "admin@ppc.edu.in",
+      "role": "super_admin",
+      "createdAt": "2024-01-15T09:00:00Z"
+    },
+    {
+      "id": "usr-2",
+      "name": "Prof. S. R. Hegde",
+      "email": "admissions.admin@ppc.edu.in",
+      "role": "admin",
+      "createdAt": "2024-03-10T10:30:00Z"
+    },
+    {
+      "id": "usr-3",
+      "name": "Dr. Manjunatha Somayaji",
+      "email": "commerce.hod@ppc.edu.in",
+      "role": "dept_admin",
+      "departmentId": "dept-com",
+      "createdAt": "2024-04-01T11:00:00Z"
+    }
+  ]
+}
